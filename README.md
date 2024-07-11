@@ -1,14 +1,11 @@
 
 
--<img src="https://cdn.quotesgram.com/img/70/12/173239684-steve-jobs-coding-quote.jpg" width="980" height="650">
+-<img src="https://cdn.quotesgram.com/img/70/12/173239684-steve-jobs-coding-quote.jpg" width="900" height="600">
 
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-
 
 
 - 👋 Hi, I’m Samriddhi Paul - pursuing MTech from DTU,New Delhi.
@@ -18,7 +15,3 @@
 - 📫 How to reach me-
 - 😄 Pronouns: she/her 
 
-
-SamrPaul/SamrPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
