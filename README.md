@@ -7,11 +7,11 @@
 <br/>
 
 
-- 👋 Hi, I’m Samriddhi Paul - pursuing MTech from DTU,New Delhi.
+- 👋 Hi, I’m Samriddhi Paul - pursuing MTech from Delhi Technological University ,New Delhi.
 
-- 👀 I am interested in **Full Stack Development** .
+- 👀 I am interested in **Full Stack Development and Artificial Intelligence** .
 - 🌱 I’m honing my **Java, Python and Web Development skills**. 
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me-
+- 📫 How to reach me- <a> paulsamriddhi21@gmail.com </a>
 - 😄 Pronouns: she/her 
 
