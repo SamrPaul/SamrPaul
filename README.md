@@ -13,6 +13,6 @@
 - 🌱 I’m honing my **Java, Python and Web Development skills**. 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me- <a> paulsamriddhi21@gmail.com </a>
-- 🤝Let's connect via -<a href="LinkedIn>https://www.linkedin.com/in/samriddhi-paul-58a320200/>LinkedIn </a>
+- 🤝Let's connect on -<a href="https://www.linkedin.com/in/samriddhi-paul-58a320200/>LinkedIn </a>
 - 😄 Pronouns: she/her 
 
